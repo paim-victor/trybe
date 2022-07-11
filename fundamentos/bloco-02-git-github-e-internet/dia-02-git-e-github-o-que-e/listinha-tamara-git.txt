@@ -1,3 +1,7 @@
 git branch nome - criando uma branch 
 git checkout nome - mudando de branch 
 git checkout -b nome - criar e mudar de branch ao mesmo tempo 
+Depois da modificação: 
+git status (pra ver o status da sua branch)
+git add . (para adicionar modificações na área de stage) 
+git commit -m "Mensagem” (para commitar os arquivos) 
