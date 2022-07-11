@@ -1,0 +1,3 @@
+git branch nome - criando uma branch 
+git checkout nome - mudando de branch 
+git checkout -b nome - criar e mudar de branch ao mesmo tempo 
