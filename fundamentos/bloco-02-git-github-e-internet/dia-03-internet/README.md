@@ -12,35 +12,35 @@ Atualmente, a grande maioria das aplicações web são desenvolvidas usando o mo
 
 # Quiz sobre Internet:
 
-## Quais opções abaixo são exemplos de um "Cliente"?
+#### Quais opções abaixo são exemplos de um "Cliente"?
 R -> Opera, Internet Explorer, Firefox, Safari, Chrome.
 
-## Qual a principal função de um "Servidor Web"?
+#### Qual a principal função de um "Servidor Web"?
 R -> Guardar, Processar e entregar páginas web para o(s) "Cliente(s)".
 
-## Qual o protocolo responsável por converter endereços IP em endereços físicos?
+#### Qual o protocolo responsável por converter endereços IP em endereços físicos?
 R -> TCP/IP.
 
-## Exemplos de "ISP":
+#### Exemplos de "ISP":
 R -> Vivo, Oi e NET.
 
-## O que é um DNS?
+#### O que é um DNS?
 R -> Servidor de Nomes de Domínios - guarda os nomes de domínio e seus endereços de IP correspondentes.
 
-## Qual dos protocolos abaixo é mais utilizado para a comunicação entre Web Browsers e Web Servers?
+#### Qual dos protocolos abaixo é mais utilizado para a comunicação entre Web Browsers e Web Servers?
 R-> HTTP.
 
-## Principais partes de uma URL:
+#### Principais partes de uma URL:
 R -> Protocolo, Nome de dominio e Recursos.
 
-## Qual a porta de comunicação padrão para o protocolo HTTP?
+#### Qual a porta de comunicação padrão para o protocolo HTTP?
 R -> 80.
 
-## Qual elemento é o responsável por renderizar a página web enviada pelo servidor?
+#### Qual elemento é o responsável por renderizar a página web enviada pelo servidor?
 R -> Cliente.
 
-## omo se chamam as pequenas unidades de informação que são transmitidas pela rede quando um cliente faz uma requisição ?
+#### Como se chamam as pequenas unidades de informação que são transmitidas pela rede quando um cliente faz uma requisição ?
 R -> Pacotes.
 
-## Qual recurso os navegadores possuem para  conseguir montar as páginas web?
+#### Qual recurso os navegadores possuem para  conseguir montar as páginas web?
 R -> Engine de Renderização.
