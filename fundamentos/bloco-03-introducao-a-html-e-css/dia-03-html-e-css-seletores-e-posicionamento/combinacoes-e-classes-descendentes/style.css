@@ -1,0 +1,43 @@
+ol li{
+    background-color: yellow;
+    
+}
+
+ol li:nth-child(even){
+	color: green;
+}
+
+ol li:nth-child(odd){
+	text-transform: uppercase;
+}
+
+h3{
+    color: red;
+}
+
+h1{
+    color: red;
+}
+
+li{
+    font-size: 20px;
+}
+
+ol li em{
+    font-weight: bold;
+}
+
+ul li a:hover{
+    font-weight: bold;
+    color: green;
+}
+
+.azul{
+    color: blue;
+}
+
+.fundo-rosa{
+    background-color: pink;
+    width: 85px;
+}
+
