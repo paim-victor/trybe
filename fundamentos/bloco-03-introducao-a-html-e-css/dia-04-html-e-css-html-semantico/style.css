@@ -6,6 +6,13 @@
     
 }
 
+.cabecalho{
+    margin-left: 420px;
+    width: 745px;
+}
+
+body{}
+
 .nav-links{
     margin: 30px;
     padding: 30px;
@@ -36,10 +43,12 @@
 #infos p{
     width: 705px;
     margin: 30px;
+    margin-left:
 }
 
 #table{
-    margin: 30px;
+    margin-left: 230px;
+
 }
 
 header{
@@ -49,7 +58,6 @@ header{
 
 #predador{
     width: 705px;
-    margin: 30px;
 }
 
 #referencias ul li a:link{
@@ -68,7 +76,6 @@ img{
 aside{
     margin: 30px;
     width: 15%; 
-    height: 100%; 
     position: fixed;
                 top: 0;
                 right: 0; 
@@ -87,6 +94,47 @@ aside img{;
 }
 
 footer{
-    margin-top: 200px;
+    padding-top: 50px;
+    text-decoration: none;
+    margin-left: 650px;
+}
+
+.menu{
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--font-family-book),var(--font-family-book-fallback);
+    font-size: var(--font-size-40-responsive-book);
+    letter-spacing: var(--font-size-40-responsive-book-letter-spacing);
+    line-height: var(--font-line-height-spaced);
+    font-weight: var(--font-weight-bold);
+    font-variation-settings: var(--font-variation-settings-book-normal-roman);
+    font-feature-settings: var(--font-feature-settings-book-roman);
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 150px;                        
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: aquamarine;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 530px;
+}
+
+.artigo1{
+    width: 800px;
+    margin-left: 390px;
+}
+
+h1{
+    background-color: aquamarine;
     text-align: center;
+}
+
+h2{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.foto1{
+    margin-left: 380px;
 }
