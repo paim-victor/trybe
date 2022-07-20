@@ -33,5 +33,6 @@ if(notaPessoaCandidata >= 80){
 } else if(notaPessoaCandidata < 60){
   console.log("Você foi reprovado(a).")
 }else{
-  
+
 }
+
