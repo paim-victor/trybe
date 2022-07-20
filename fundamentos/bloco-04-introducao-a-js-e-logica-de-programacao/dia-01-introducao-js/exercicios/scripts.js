@@ -43,3 +43,36 @@
 
 // }
 
+// const valor = -2;
+
+// if(valor > 0) {
+//   console.log("positive")
+// } else if (valor < 0) {
+//   console.log("negative")
+// } else {
+
+// }
+
+// const angulo1 = 90;
+// const angulo2 = 45;
+// const angulo3 = 45;
+
+// if(angulo1 + angulo2 + angulo3 == 180) {
+//   console.log("true")
+// }
+// else if (angulo1 + angulo2 + angulo3 != 180) {
+//  console.log("false")
+// }
+// else {
+
+// }
+
+// let pecaDeXadrez = "peão";
+
+// if (pecaDeXadrez == "bispo") {
+//   console.log("movimentos em diagonal")
+// } else if (pecaDeXadrez != "bispo" ){
+//   console.log("ERR0R!!!")
+// }
+
+
