@@ -10,3 +10,4 @@ console.log(birthCity);
 console.log(birthYear);
 
 /* A msg de erro ocorre por que o birthCity é uma constante e não podemos troca-la, diferentemente de uma variavel, que pode ser modificada. */
+
