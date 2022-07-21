@@ -35,16 +35,3 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 // console.log(maiorNumero)
 
-
-
-
-let pares = []
-let impares = []
-
-for (i = 0; i < numbers.length; i++) {
-  if (numbers[i] % 2 === 0) {
-    console.log(pares[i])
-  } else {
-    console.log(impares[i])
-  }
-}
