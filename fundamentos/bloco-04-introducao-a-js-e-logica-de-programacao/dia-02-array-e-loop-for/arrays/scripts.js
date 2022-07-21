@@ -19,9 +19,10 @@
 
 // console.log(menu[1]);
 
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-let indexOfPortfolio = 0;
+// let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+// let indexOfPortfolio = 0;
 
-for (let indexOfPortfolio = 0;  indexOfPortfolio < menu.length; indexOfPortfolio++){
-  console.log(menu[indexOfPortfolio]);
-}
+// for (let indexOfPortfolio = 0;  indexOfPortfolio < menu.length; indexOfPortfolio++){
+//   console.log(menu[indexOfPortfolio]);
+// }
+

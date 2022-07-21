@@ -1,4 +1,4 @@
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+//let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 //1. console.log(numbers)
 
@@ -39,4 +39,18 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 // console.log(min);
   
+
+//.8 let vinteCinco = []
+
+
+// function generateRange(totalElementos){
+//   return Array.from(Array(totalElementos).keys());
+//   }
+
+// console.log(generateRange(25));
+
+
+
+//BONUS
+
 
