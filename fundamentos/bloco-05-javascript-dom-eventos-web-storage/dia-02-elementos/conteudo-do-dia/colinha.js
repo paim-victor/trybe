@@ -10,5 +10,9 @@
 // nextElementSibling: retorna o próximo elemento.
 // previousSibling: retorna o nó anterior.
 // previousElementSibling: retorna o elemento anterior.
+
 // createElement(); cria elemento html
 // appendChild() adiciona o elemnto html ao filho
+
+//
+
