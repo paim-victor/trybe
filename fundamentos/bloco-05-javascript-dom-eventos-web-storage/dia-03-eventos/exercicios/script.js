@@ -189,3 +189,32 @@ function corDia () {
 
 corDia();
 
+function adcTarefa () {
+  let campoDeEntrada = document.querySelector('#task-input');
+  let adcBotao = document.querySelector('#btn-add');
+  let listaDeTarefas = document.querySelector('.task-list');
+
+  adcBotao.addEventListener('click', function() {
+    if (campoDeEntrada.value.length > 0) {
+      let novaLi = document.createElement('li');
+      novaLi.innerText = campoDeEntrada.value;
+
+      listaDeTarefas.appendChild(novaLi);
+      campoDeEntrada.value = ''
+    } else {
+      alert('Error: campo vazio!!!');
+    }
+  });
+  
+  campoDeEntrada.addEventListener('keyup', function(event) {
+    if (event.key === 'Enter' && campoDeEntrada.value.length > 0) {
+      let novaLi = document.createElement('li');
+      novaLi.innerText = campoDeEntrada.value;
+
+      listaDeTarefas.appendChild(novaLi);
+      campoDeEntrada.value = '';
+    }
+  });
+}
+
+adcTarefa();
