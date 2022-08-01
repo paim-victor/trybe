@@ -205,7 +205,7 @@ function adcTarefa () {
       alert('Error: campo vazio!!!');
     }
   });
-  
+  j
   campoDeEntrada.addEventListener('keyup', function(event) {
     if (event.key === 'Enter' && campoDeEntrada.value.length > 0) {
       let novaLi = document.createElement('li');
